@@ -1,0 +1,6 @@
+2024-12-11 03:29:06,POST,postBooks,SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null
+2024-12-11 03:33:07,POST,testthunder5,Created a new book record
+2024-12-11 03:43:52,POST,testthunder5,Created a new book record
+2024-12-11 03:44:15,POST,testthunder5,Created a new book record
+2024-12-11 04:38:22,POST,testthunder5,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5' for key 'PRIMARY'
+2024-12-11 04:39:20,POST,testthunder5,Created a new book record
